@@ -1,0 +1,6 @@
+{
+  "name": "dota-matches-api",
+  "version": "1.0.0",
+  "description": "Dota 2 matches API from Liquipedia and OpenDota",
+  "main": "api/index.js"
+}
